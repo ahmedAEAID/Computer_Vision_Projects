@@ -2,7 +2,7 @@
 
 [For a detailed description of the dataset, please click here](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
-![american_sign_language]
+![american_sign_language](https://github.com/ahmedAEAID/Computer_Vision_Projects/blob/Sign_laguage_Classification/Sign%20Language%20Classification/Dataset/amer_sign2.png)
 
 ## Project Describtion:
 
