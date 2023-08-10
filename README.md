@@ -1,3 +1,4 @@
 
-# Computer_Vision_Projects
-Computer vision projects
+# Computer Vision Techniques
+- Image processing
+- Projects Computer Vision
